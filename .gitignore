@@ -1,0 +1,5 @@
+pm1-tfc-2016-*.csv
+.env
+.ipynb_checkpoints/
+__pycache__/
+.idea/

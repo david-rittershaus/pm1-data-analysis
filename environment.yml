@@ -1,0 +1,33 @@
+name: pm1archive-nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - ipykernel
+  - statsmodels
+  - tzdata
+  - "numpy>=1.22.4,<2.0"
+  - llvmlite
+  - numba
+  - pip:
+      - bertopic
+      - contractions
+      - gensim
+      - ipywidgets
+      - matplotlib
+      - nltk
+      - pandas
+      - plotnine
+      - scikit-misc
+      - scikit-learn
+      - scipy
+      - seaborn
+      - sentence-transformers
+      - "spacy==3.7.5"
+      - "thinc==8.2.5"
+      - tqdm
+      - umap-learn
+      - https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
