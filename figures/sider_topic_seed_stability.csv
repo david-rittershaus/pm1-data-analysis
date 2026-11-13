@@ -1,0 +1,11 @@
+seed,topics,best_match,jaccard
+0,60,4_map_maps_mapping_walking,0.87
+1,61,4_map_maps_space_mapping,0.85
+2,56,8_map_mapping_maps_walking,0.88
+3,54,4_map_maps_space_mapping,0.87
+4,61,3_map_maps_space_mapping,0.86
+5,57,6_map_maps_mapping_walking,0.94
+6,59,5_map_mapping_maps_walking,0.87
+7,59,5_map_mapping_maps_walking,0.91
+8,55,7_map_mapping_maps_walking,0.89
+9,62,3_map_maps_mapping_walking,0.8
